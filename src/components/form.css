@@ -1,0 +1,11 @@
+.info {
+  display: flex;
+  flex-direction: column;
+}
+.infoTitle {
+  margin: 0 auto;
+}
+
+.infoTitle:last-child {
+  padding-top: 20px;
+}
